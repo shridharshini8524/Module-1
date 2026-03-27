@@ -1,3 +1,4 @@
+
 # Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
 
 ## AIM
@@ -13,14 +14,20 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
-#Write your code here
+a = eval()
+b = eval()
+print(f"A is {a}")
+print(f"B is {b}")
+print(f"Sum is {a+b}")
 
 ```
 
 ## OUTPUT
-
+![image](https://github.com/user-attachments/assets/69e1bf2c-fec8-42c1-8bf2-c55daa63b33f)
 
 ## RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
