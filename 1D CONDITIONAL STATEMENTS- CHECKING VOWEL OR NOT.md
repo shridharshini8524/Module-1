@@ -1,31 +1,33 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
 
-## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
-## ALGORITHM  
-1. Begin the program.  
-2. Take a character input from the user
-3. Convert the character to lowercase
-4. Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
-5. If it is a vowel, display "The given character is a vowel"
-6. Otherwise, display "The given character is NOT a vowel"
-4. Terminate the program.
+# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+
+## AIM
+To write a Python program for adding two complex numbers, and get the user input using the `eval()` function.
+
+## ALGORITHM
+1. Begin the program.
+2. Use the `eval()` function to get two complex numbers as input from the user.
+3. Print the complex numbers entered by the user.
+4. Perform the addition of the two complex numbers using the `+` operator.
+5. Print the sum of the two complex numbers.
+6. Terminate the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+a = eval()
+b = eval()
+print(f"A is {a}")
+print(f"B is {b}")
+print(f"Sum is {a+b}")
 
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
-else:
-    print("The given character is NOT a vowel")
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/69e1bf2c-fec8-42c1-8bf2-c55daa63b33f)
 
 ## RESULT
+Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
